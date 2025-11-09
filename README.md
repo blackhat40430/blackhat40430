@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Cyber Security<br><br>💬 Ask me about python,bash,ruby,java,js,css<br><br>📫 How to reach me swethainduwara30@gmail.com<br><br>⚡ Fun fact gamer<br>
+🌱 I’m currently learning Cyber Security<br><br>💬 Ask me about python,bash,ruby,java,js,css<br><br>📫 Email me swethainduwara30@gmail.com<br><br>⚡ Fun fact gamer<br>
 
 
 
